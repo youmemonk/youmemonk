@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi, I'm Mayank!</h4>
+<h3 align="left">👋 Hi, I'm Mayank!</h4>
 
 ###
 
@@ -38,8 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="24" alt="fedora logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24" alt="c logo"  />
@@ -57,8 +55,10 @@
 
 ###
 
-<p align="left">📫 Reach me at
-  <br />
+<h4 align="left">📫 Reach me at</h4>
+  
+###
+
   <a href="https://www.linkedin.com/in/mayank-ukey/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
